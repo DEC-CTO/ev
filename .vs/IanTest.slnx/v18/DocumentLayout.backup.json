@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\platu\\OneDrive\\Desktop\\IanTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7282B908-53D9-4066-BB8F-40D0978B44F5}|IanTest\\IanTest.csproj|c:\\users\\platu\\onedrive\\desktop\\iantest\\iantest\\comman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7282B908-53D9-4066-BB8F-40D0978B44F5}|IanTest\\IanTest.csproj|solutionrelative:iantest\\comman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1FC3E63-D277-0688-40EB-0932371D7900}|IanTest\\IanTest.csproj|c:\\users\\platu\\onedrive\\desktop\\iantest\\iantest\\comman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FC3E63-D277-0688-40EB-0932371D7900}|IanTest\\IanTest.csproj|solutionrelative:iantest\\comman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "IanTest\\Comman.cs",
               "ToolTip": "C:\\Users\\platu\\OneDrive\\Desktop\\IanTest\\IanTest\\Comman.cs",
               "RelativeToolTip": "IanTest\\Comman.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-02T00:25:28.384Z",
               "EditorCaption": ""

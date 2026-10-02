@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IanTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+980cb2198fbcb9884b720d74deff73396a7e71f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("IanTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IanTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
